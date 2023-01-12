@@ -47,6 +47,13 @@ const App= () => {
                     .then(response => {
                         setPeople(people.map(n => n.id !== person.id ? n: changedPerson))
                     })
+                    .catch(err => {
+                        setErrorMessage(err.response.data.error)
+                        setTimeout(() => {
+                            setErrorMessage(null)
+                        },3000)
+                        console.log(err.response.data.error)
+                    })
                 setMessage(`${nameObject.name} is been added`)
                 setTimeout(() => {
                     setMessage(null)
@@ -60,6 +67,13 @@ const App= () => {
                     setPeople(people.concat(response))
                     setName('')
                     setNumber('')
+                })
+                .catch(err => {
+                    setErrorMessage(err.response.data.error)
+                    setTimeout(() => {
+                        setErrorMessage(null)
+                    },3000)
+                    console.log(err.response.data.error)
                 })
             setMessage(`${nameObject.name} is been added`)
             setTimeout(() => {

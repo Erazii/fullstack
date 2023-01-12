@@ -19,16 +19,16 @@ const Notification = ({message, errorMessage}) => {
     }
     if (message === null && errorMessage === null){
         return null
-    }else if(message != null){
-        return (
-            <div style={style}>
-                {message}
-            </div>
-        )
     }else if(errorMessage != null){
         return (
             <div style={errorStyle}>
                 {errorMessage}
+            </div>
+        )
+    }else if(message != null){
+        return (
+            <div style={style}>
+                {message}
             </div>
         )
     }
