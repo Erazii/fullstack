@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d6594b3-9d0c-4e67-b417-d4d2fb40d387" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/.idea/query-anecdotes-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/src/CounterContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/src/components/AnecdoteForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/src/components/Notification.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-anecdotes-main/src/requests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/.idea/redux-anecdotes-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/src/components/AnecdoteForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/src/components/AnecdoteList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/src/components/Filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/src/components/Notification.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/src/reducers/anecdoteReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/src/reducers/filterReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/src/reducers/notificationReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/src/services/anecdotesServices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux-anecdotes-main/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicafe-redux-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicafe-redux-main/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicafe-redux-main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicafe-redux-main/.idea/unicafe-redux-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicafe-redux-main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicafe-redux-main/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicafe-redux-main/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicafe-redux-main/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicafe-redux-main/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicafe-redux-main/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicafe-redux-main/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicafe-redux-main/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicafe-redux-main/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicafe-redux-main/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicafe-redux-main/src/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicafe-redux-main/src/reducer.test.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2N8dlIUIFBaloaYafN16QR3UwA4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/tefaj/Documents/fullstack/part6",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d6594b3-9d0c-4e67-b417-d4d2fb40d387" name="Changes" comment="" />
+      <created>1679049793259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679049793259</updated>
+      <workItem from="1679049794633" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
